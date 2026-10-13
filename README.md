@@ -152,6 +152,3 @@ This project demonstrates practical experience with:
 - GitHub: https://github.com/Pavankumarpsp
 - LinkedIn: https://linkedin.com/in/pavankumar-p-s
 
----
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
